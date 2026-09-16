@@ -1,0 +1,56 @@
+# W2D5 — 2026-09-11
+
+## Read
+Annex III — the eight areas referenced by Art. 6(2), and the four
+sub-points under area 5.
+
+## What I learned
+
+**1. The eight areas share one shape: decisions about a person.**
+Biometrics, critical infrastructure, education, employment, access to
+essential services, law enforcement, migration, administration of
+justice. Each concerns an outcome imposed on an individual.
+
+**2. Area 5 was the only plausible match, and it does not apply.**
+5(a) eligibility for public assistance benefits and services, including
+healthcare services — granting, reducing, revoking or reclaiming them.
+5(b) creditworthiness and credit scoring, excluding fraud detection.
+5(c) risk assessment and pricing in life and health insurance.
+5(d) triage of emergency calls and dispatch priority, including
+emergency patient triage.
+
+All four decide something *about* a person. My system reports what a
+document states and returns the character offsets where it states it.
+The decision stays with the clinician.
+
+The phrase "including healthcare services" in 5(a) refers to deciding
+who receives care, not to reading clinical records.
+
+**3. Correction to W2D4.**
+I recorded that Art. 6(4) "creates a deliverable either way". That
+overstated its scope. 6(4) opens with "an AI system referred to in
+Annex III" — the documentation duty applies to systems inside Annex III
+that exit via 6(3). A system outside Annex III never enters that
+provision.
+
+## Conclusion
+Neither classification route applies.
+- 6(1): not a safety component under Annex I legislation, and no
+  third-party conformity assessment is required for it.
+- 6(2): not listed in any of the eight Annex III areas.
+
+Not high-risk under the AI Act as currently scoped.
+
+## What this does not mean
+The classification depends entirely on intended purpose. Redirect the
+same system toward emergency triage and 5(d) applies; toward insurance
+risk scoring and 5(c) applies. The design sits one use-case change away
+from being in scope.
+
+I will keep evidence verification, abstention and audit logging
+regardless. They are not legally required here — they are required for
+the system to be worth using.
+
+## Next
+Write docs/classification-assessment.md. Then S02 — RAG over the
+synthetic corpus.
