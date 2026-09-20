@@ -1,0 +1,96 @@
+Name:  ___                     Unit No:   ___
+
+Admission Date:  ___              Discharge Date:   ___
+
+Date of Birth:  ___             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Sulfa (Sulfonamide Antibiotics)
+
+Attending: ___
+
+Chief Complaint:
+Shortness of breath, leg swelling
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Mr. ___ is a 72-year-old man with heart failure with reduced
+ejection fraction (EF 30%), hypertension and chronic kidney disease
+stage 3a who presented with 1 week of worsening dyspnea, 3-pillow
+orthopnea and a 5 kg weight gain. He reports dietary indiscretion
+over a recent holiday. He has been adherent to his medications.
+
+Past Medical History:
+- HFrEF, EF 30% (ischemic)
+- CAD s/p PCI to LAD ___
+- Hypertension
+- CKD stage 3a, baseline Cr 1.3
+
+Social History:
+___
+Family History:
+Noncontributory.
+
+Physical Exam:
+ADMISSION: BP 152/90, HR 88, SpO2 91% RA. JVP to angle of jaw.
+Bibasilar crackles. 2+ pitting edema to the knees.
+DISCHARGE: BP 118/72, HR 70, SpO2 96% RA. JVP 8 cm. Trace edema.
+Weight 81.2 kg (admission 86.0 kg).
+
+Pertinent Results:
+BNP 1840
+Cr 1.3 (admission) -> 2.0 (hospital day 3) -> 1.5 (discharge)
+K 4.8 -> 4.4
+CXR: pulmonary vascular congestion, small bilateral effusions.
+
+Brief Hospital Course:
+Mr. ___ was admitted with acute on chronic systolic heart failure
+exacerbation in the setting of dietary sodium excess. He was diuresed
+with IV furosemide with net negative 4.8 L over the admission. On
+hospital day 3 his creatinine rose from 1.3 to 2.0, and lisinopril
+was held in the setting of acute kidney injury. Creatinine improved
+to 1.5 with holding of the ACE inhibitor and adjustment of diuresis.
+Lisinopril was restarted at a reduced dose of 5 mg daily prior to
+discharge to limit further renal injury, with plan to uptitrate as an
+outpatient if creatinine remains stable. He was transitioned back to
+his oral diuretic regimen and remained euvolemic for 24 hours prior
+to discharge.
+
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. lisinopril 10 mg PO daily
+2. furosemide 40 mg PO daily
+3. metoprolol tartrate 25 mg PO BID
+
+Discharge Medications:
+1. Lisinopril 5 mg PO DAILY
+2. Furosemide 40 mg PO DAILY
+3. Metoprolol Tartrate 25 mg PO BID
+
+Discharge Disposition:
+Home With Service
+
+Discharge Diagnosis:
+Primary: Acute on chronic systolic heart failure
+Secondary: Acute kidney injury on chronic kidney disease
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+Discharge Instructions:
+You were admitted because fluid built up in your lungs and legs from
+heart failure. We removed the extra fluid with medicine. Your kidney
+function worsened for a short time, so we LOWERED the dose of your
+lisinopril. Please take the dose listed on this form, not your old
+dose. Weigh yourself every morning and call your doctor if your
+weight goes up by more than 3 lbs in a day or 5 lbs in a week.
+Limit salt to less than 2 grams a day.
+
+Followup Instructions:
+___

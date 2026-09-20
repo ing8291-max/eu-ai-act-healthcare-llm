@@ -1,0 +1,31 @@
+{
+  "doc_id": "doc_01",
+  "source": "data/synthetic/doc_01.txt",
+  "synthetic": true,
+  "difficulty": "baseline",
+  "expected": [
+    {
+      "name": "metoprolol tartrate",
+      "dose": "25 mg",
+      "frequency": "BID",
+      "literal_in_doc": "Metoprolol Tartrate 25 mg PO BID",
+      "section": "Discharge Medications"
+    },
+    {
+      "name": "atorvastatin",
+      "dose": "40 mg",
+      "frequency": "daily",
+      "literal_in_doc": "Atorvastatin 40 mg PO DAILY",
+      "section": "Discharge Medications"
+    },
+    {
+      "name": "aspirin",
+      "dose": "81 mg",
+      "frequency": "daily",
+      "literal_in_doc": "Aspirin 81 mg PO DAILY",
+      "section": "Discharge Medications"
+    }
+  ],
+  "should_abstain": [],
+  "traps": []
+}

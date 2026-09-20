@@ -1,0 +1,90 @@
+Name:  ___                     Unit No:   ___
+
+Admission Date:  ___              Discharge Date:   ___
+
+Date of Birth:  ___             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Lisinopril (angioedema)
+
+Attending: ___
+
+Chief Complaint:
+Headache, elevated blood pressure
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Mr. ___ is a 60-year-old man with untreated hypertension and
+diabetic peripheral neuropathy who presented with a 1-day history
+of occipital headache. Blood pressure at triage was 212/118. He had
+not seen a primary care physician in several years. He denied
+chest pain, vision changes, focal weakness or confusion.
+
+Past Medical History:
+Hypertension (untreated)
+Type 2 diabetes, diet-controlled
+Peripheral neuropathy
+
+Social History:
+___
+Family History:
+Brother with stroke.
+
+Physical Exam:
+Admission: BP 212/118, HR 84, SpO2 98% RA. Fundi without
+papilledema. Neuro exam nonfocal. Decreased vibration sense in both
+feet.
+Discharge: BP 146/88, HR 76. Headache resolved.
+
+Pertinent Results:
+Cr 1.0, K 3.9
+Troponin negative
+UA: trace protein, no blood
+Head CT: no acute intracranial process.
+
+Brief Hospital Course:
+Mr. ___ was admitted with hypertensive urgency without evidence of
+end-organ damage. His blood pressure was lowered gradually over
+24 hours with oral agents. He was started on amlodipine, which was
+well tolerated, and his headache resolved as blood pressure
+improved. An ACE inhibitor was avoided given his documented history
+of angioedema. He reported taking a medication at home for nerve
+pain; he was unable to recall the dose, and the outside pharmacy
+could not be reached before discharge. He was told to continue it
+as he had been taking it and to bring the bottle to his follow-up
+appointment for reconciliation.
+
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires
+futher investigation.
+
+Discharge Medications:
+1. Amlodipine 5 mg PO DAILY
+2. Gabapentin - continue home regimen
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Hypertensive urgency
+Diabetic peripheral neuropathy
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+Discharge Instructions:
+You were admitted because your blood pressure was dangerously high.
+We started a new blood pressure medicine, amlodipine. Keep taking
+your nerve pain medicine the same way you did before coming to the
+hospital, and bring the bottle to your next appointment. Check your
+blood pressure at home and return if you have chest pain, weakness
+on one side, or trouble speaking.
+
+Followup Instructions:
+___

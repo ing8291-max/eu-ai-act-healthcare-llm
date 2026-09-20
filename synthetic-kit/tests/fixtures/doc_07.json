@@ -1,0 +1,32 @@
+{
+  "doc_id": "doc_07",
+  "source": "data/synthetic/doc_07.txt",
+  "synthetic": true,
+  "difficulty": "discontinuation",
+  "expected": [
+    {
+      "name": "sertraline",
+      "dose": "50 mg",
+      "frequency": "daily",
+      "literal_in_doc": "Sertraline 50 mg PO DAILY",
+      "section": "Discharge Medications"
+    },
+    {
+      "name": "amlodipine",
+      "dose": "5 mg",
+      "frequency": "daily",
+      "literal_in_doc": "Amlodipine 5 mg PO DAILY",
+      "section": "Discharge Medications"
+    }
+  ],
+  "should_abstain": [],
+  "absent_from_section": {
+    "section": "Discharge Medications",
+    "names": [
+      "trazodone"
+    ]
+  },
+  "traps": [
+    "Trazodone 50 mg is on the admission list but was discontinued - reporting it is a false positive"
+  ]
+}

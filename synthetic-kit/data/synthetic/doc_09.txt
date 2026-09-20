@@ -1,0 +1,91 @@
+Name:  ___                     Unit No:   ___
+
+Admission Date:  ___              Discharge Date:   ___
+
+Date of Birth:  ___             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending: ___
+
+Chief Complaint:
+Dizziness, uncontrolled blood pressure
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Mr. ___ is a 71-year-old man with hypertension, ischemic
+cardiomyopathy (EF 40%) and hyperlipidemia who was referred from
+clinic for blood pressures persistently above 170 systolic despite
+reported adherence, with intermittent lightheadedness. He had
+recently run out of one of his medications and was unsure which
+ones he was still taking. Home pill bottles were reviewed on
+admission.
+
+Past Medical History:
+Hypertension
+Ischemic cardiomyopathy, EF 40%
+Hyperlipidemia
+Benign prostatic hyperplasia
+
+Social History:
+___
+Family History:
+Noncontributory.
+
+Physical Exam:
+Admission: BP 178/94 (R), 174/92 (L), HR 88. JVP not elevated.
+Lungs clear. No edema.
+Discharge: BP 138/82, HR 66. No orthostasis.
+
+Pertinent Results:
+Na 139, K 3.8, Cr 1.1
+LDL 132
+TTE: EF 40%, no change from prior.
+
+Brief Hospital Course:
+Mr. ___ was admitted for management of uncontrolled hypertension in
+the setting of medication confusion. Pharmacy performed a full
+medication reconciliation with the patient and his daughter. His
+beta blocker was changed to carvedilol given his cardiomyopathy, and
+a thiazide was resumed. His statin was changed to rosuvastatin to
+improve LDL control. Blood pressure improved to goal over 48 hours
+without orthostatic symptoms. A pill organizer was provided and the
+new regimen was reviewed in detail.
+
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires
+futher investigation.
+1. hydrochlorothiazide 25 mg PO daily (patient not taking)
+
+Discharge Medications:
+1. Hydrochlorothiazide 25 mg q.d.
+2. Carvedilol 12.5 mg twice daily
+3. Rosuvastatin 10 mg QHS
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Uncontrolled hypertension
+Ischemic cardiomyopathy
+Hyperlipidemia
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+Discharge Instructions:
+You were admitted because your blood pressure was too high. We went
+over all of your pills with you and your daughter and made a new,
+simpler list. Please use the pill organizer we gave you and throw
+away any old bottles that are not on this list. Check your blood
+pressure daily and bring the log to your next visit.
+
+Followup Instructions:
+___

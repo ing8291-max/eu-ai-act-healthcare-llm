@@ -1,0 +1,89 @@
+Name:  ___                     Unit No:   ___
+
+Admission Date:  ___              Discharge Date:   ___
+
+Date of Birth:  ___             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending: ___
+
+Chief Complaint:
+Right leg redness and swelling
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Ms. ___ is a 58-year-old woman with type 2 diabetes on oral and
+basal insulin therapy who presented with 3 days of spreading
+redness, warmth and pain in the right lower leg after a minor
+abrasion while gardening. She had a low-grade fever at home. She
+denied chills, rigors or drainage from the wound.
+
+Past Medical History:
+Type 2 diabetes mellitus (last A1c 8.4%)
+Obesity
+Venous insufficiency
+
+Social History:
+___
+Family History:
+Mother and sister with type 2 diabetes.
+
+Physical Exam:
+Admission: T 100.6, HR 96, BP 138/82. Right shin with 12 x 8 cm area
+of erythema, warmth and tenderness, borders marked. No fluctuance.
+Discharge: Afebrile. Erythema receded well within marked borders.
+
+Pertinent Results:
+WBC 13.2 -> 8.1
+Glucose 220-310 on admission, 130-180 at discharge
+Cr 0.8
+LE ultrasound: no DVT, no abscess.
+
+Brief Hospital Course:
+Ms. ___ was admitted with nonpurulent cellulitis of the right lower
+extremity. She was treated with IV antibiotics and transitioned to an
+oral course with steady improvement in erythema and resolution of
+fever. Her blood glucose was elevated in the setting of infection and
+was managed with a basal-bolus regimen in hospital. As the infection
+improved her glucose returned to her usual range. At discharge she
+was instructed to resume home insulin glargine at the same dose she
+was using prior to admission, together with metformin. She will
+follow up with her primary care physician to review glucose logs.
+
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires
+futher investigation.
+1. metformin 1000 mg PO BID
+2. insulin glargine - home dose
+
+Discharge Medications:
+1. Metformin 1000 mg PO BID
+2. Insulin Glargine - resume home dose
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Right lower extremity cellulitis
+Type 2 diabetes mellitus with hyperglycemia
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+Discharge Instructions:
+You were admitted for a skin infection of your right leg. Please
+finish the full course of antibiotics. Go back to taking your
+long-acting insulin the same way you did before the hospital stay,
+and keep a log of your blood sugars. Return if the redness spreads
+past the marked lines or you develop a high fever.
+
+Followup Instructions:
+___

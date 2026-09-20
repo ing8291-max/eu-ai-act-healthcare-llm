@@ -1,0 +1,91 @@
+Name:  ___                     Unit No:   ___
+
+Admission Date:  ___              Discharge Date:   ___
+
+Date of Birth:  ___             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Codeine (nausea)
+
+Attending: ___
+
+Chief Complaint:
+Fall at home
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Ms. ___ is a 47-year-old woman with depression, insomnia and
+hypertension who presented after a fall at home at approximately
+2 AM while walking to the bathroom. She recalls feeling unsteady and
+"groggy" after taking her nighttime medication. She struck her left
+hip but did not hit her head or lose consciousness. She was able to
+get up but had persistent hip pain.
+
+Past Medical History:
+Major depressive disorder
+Insomnia
+Hypertension
+
+Social History:
+___
+Family History:
+Noncontributory.
+
+Physical Exam:
+Admission: BP 124/78, HR 70, orthostatic vital signs negative.
+Tenderness over left lateral hip, full range of motion. Neuro exam
+nonfocal.
+Discharge: Ambulating independently with mild hip discomfort.
+
+Pertinent Results:
+Hip and pelvis X-ray: no fracture.
+Na 138, K 4.0, glucose 96
+TSH normal
+ECG: sinus rhythm, QTc 438.
+
+Brief Hospital Course:
+Ms. ___ was admitted after a mechanical fall at night with left hip
+contusion; imaging showed no fracture. The fall occurred shortly
+after taking her bedtime sedating medication, and she described
+morning grogginess on most days. Given her fall risk, trazodone was
+discontinued, and sleep hygiene measures were reviewed with her.
+Physical therapy evaluated her and cleared her for discharge home
+without assistive devices. Her antidepressant and antihypertensive
+were continued at the same doses. She will follow up with her
+psychiatrist to discuss alternative approaches to insomnia.
+
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. sertraline 50 mg PO daily
+2. trazodone 50 mg PO QHS
+3. amlodipine 5 mg PO daily
+
+Discharge Medications:
+1. Sertraline 50 mg PO DAILY
+2. Amlodipine 5 mg PO DAILY
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Mechanical fall
+Left hip contusion
+Insomnia
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+Discharge Instructions:
+You were admitted after a fall. X-rays showed no broken bones. We
+STOPPED your sleep medication because it may have made you unsteady
+at night. Do not restart it unless your psychiatrist tells you to.
+Use a night light and get up slowly from bed.
+
+Followup Instructions:
+___

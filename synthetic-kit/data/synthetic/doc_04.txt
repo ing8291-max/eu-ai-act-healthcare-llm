@@ -1,0 +1,90 @@
+Name:  ___                     Unit No:   ___
+
+Admission Date:  ___              Discharge Date:   ___
+
+Date of Birth:  ___             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending: ___
+
+Chief Complaint:
+Elevated INR, gum bleeding
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Ms. ___ is a 65-year-old woman with atrial fibrillation on chronic
+anticoagulation who was referred from her anticoagulation clinic
+with an INR of 6.8. She reported 2 days of gum bleeding when
+brushing her teeth and easy bruising on her forearms. She had
+recently finished a course of antibiotics for a urinary tract
+infection. She denied melena, hematuria or headache.
+
+Past Medical History:
+Paroxysmal atrial fibrillation (CHA2DS2-VASc 3)
+Hypertension
+Gastritis
+
+Social History:
+___
+Family History:
+Noncontributory.
+
+Physical Exam:
+Admission: BP 134/80, HR 76 irregularly irregular, SpO2 98% RA.
+Scattered ecchymoses on bilateral forearms. Oozing at gumline.
+Neuro exam nonfocal.
+Discharge: No active bleeding. Ecchymoses stable.
+
+Pertinent Results:
+INR 6.8 -> 3.9 -> 2.7 -> 2.4
+Hgb 12.1, stable throughout
+Plt 224
+UA negative.
+
+Brief Hospital Course:
+Ms. ___ was admitted for supratherapeutic INR with minor mucosal
+bleeding. The likely cause was a drug interaction with her recent
+antibiotic course. Warfarin was held for 2 days and her INR
+drifted down without the need for reversal agents. Her hemoglobin
+remained stable and the gum bleeding resolved. Her prior dose had
+been 5 mg daily; given her sensitivity and age, warfarin was resumed
+at a reduced dose prior to discharge, and her INR was 2.4 on the day
+of discharge. Her anticoagulation clinic was contacted and will
+check her INR within 3 days.
+
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. warfarin 5 mg PO daily
+2. pantoprazole 40 mg PO daily
+
+Discharge Medications:
+1. Warfarin 2.5 mg PO DAILY
+2. Pantoprazole 40 mg PO DAILY
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Supratherapeutic INR with minor gingival bleeding
+Paroxysmal atrial fibrillation
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+Discharge Instructions:
+Your blood was too thin, which caused your gums to bleed. We stopped
+your warfarin for 2 days and your blood test improved. Your warfarin
+dose has been CHANGED. Please take the new dose listed on this form.
+Have your INR checked within 3 days. Call your doctor if you notice
+black stools, blood in your urine, or a severe headache.
+
+Followup Instructions:
+___

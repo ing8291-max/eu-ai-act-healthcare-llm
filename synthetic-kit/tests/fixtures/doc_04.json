@@ -1,0 +1,27 @@
+{
+  "doc_id": "doc_04",
+  "source": "data/synthetic/doc_04.txt",
+  "synthetic": true,
+  "difficulty": "dose_change",
+  "expected": [
+    {
+      "name": "warfarin",
+      "dose": "2.5 mg",
+      "frequency": "daily",
+      "literal_in_doc": "Warfarin 2.5 mg PO DAILY",
+      "section": "Discharge Medications"
+    },
+    {
+      "name": "pantoprazole",
+      "dose": "40 mg",
+      "frequency": "daily",
+      "literal_in_doc": "Pantoprazole 40 mg PO DAILY",
+      "section": "Discharge Medications"
+    }
+  ],
+  "should_abstain": [],
+  "traps": [
+    "Medications on Admission lists warfarin 5 mg",
+    "Brief Hospital Course states the prior dose of 5 mg daily in prose"
+  ]
+}

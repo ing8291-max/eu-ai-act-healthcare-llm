@@ -1,0 +1,88 @@
+Name:  ___                     Unit No:   ___
+
+Admission Date:  ___              Discharge Date:   ___
+
+Date of Birth:  ___             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Aspirin (bronchospasm)
+
+Attending: ___
+
+Chief Complaint:
+Wheezing, shortness of breath
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Ms. ___ is a 39-year-old woman with moderate persistent asthma who
+presented with 4 days of worsening wheeze, chest tightness and
+nocturnal cough following a viral upper respiratory infection. She
+had been using her rescue inhaler every 2 hours without relief.
+Peak flow at home was 45% of her personal best.
+
+Past Medical History:
+Asthma, moderate persistent, 1 prior ICU admission ___
+Allergic rhinitis
+
+Social History:
+___
+Family History:
+Son with asthma.
+
+Physical Exam:
+Admission: RR 26, SpO2 91% RA, HR 112. Diffuse expiratory wheezes,
+prolonged expiratory phase, speaking in short phrases.
+Discharge: RR 16, SpO2 97% RA, HR 84. Scattered end-expiratory
+wheeze only. Speaking in full sentences.
+
+Pertinent Results:
+Peak flow 45% -> 78% of personal best
+VBG on admission: 7.41 / 38
+CXR: hyperinflation, no infiltrate.
+Respiratory viral panel: rhinovirus positive.
+
+Brief Hospital Course:
+Ms. ___ was admitted with a moderate-to-severe asthma exacerbation
+triggered by rhinovirus infection. She received frequent nebulizer
+treatments and systemic steroids with steady improvement in work of
+breathing and peak flow. She did not require ICU care or
+non-invasive ventilation. Inhaler technique was reviewed with
+respiratory therapy. By the day of discharge she was able to go
+6 hours between rescue treatments and her peak flow had improved to
+78% of her personal best. She was discharged to complete a short
+oral steroid taper at home.
+
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. albuterol inhaler PRN
+
+Discharge Medications:
+See discharge instructions.
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Asthma exacerbation, moderate-to-severe
+Rhinovirus infection
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+Discharge Instructions:
+You were admitted for an asthma attack caused by a cold virus. Your
+breathing improved with steroids and breathing treatments. At home,
+please take prednisone 20 mg daily for 4 more days, then stop. Use
+your rescue inhaler, albuterol 2 puffs every 6 hours, and you may use
+it more often if needed for wheezing. If you need it more than every
+4 hours, or your peak flow drops below 60% of your best, please call
+your doctor or return to the emergency department.
+
+Followup Instructions:
+___

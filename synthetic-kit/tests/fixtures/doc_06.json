@@ -1,0 +1,32 @@
+{
+  "doc_id": "doc_06",
+  "source": "data/synthetic/doc_06.txt",
+  "synthetic": true,
+  "difficulty": "missing_dose",
+  "expected": [
+    {
+      "name": "metformin",
+      "dose": "1000 mg",
+      "frequency": "BID",
+      "literal_in_doc": "Metformin 1000 mg PO BID",
+      "section": "Discharge Medications"
+    }
+  ],
+  "should_abstain": [
+    {
+      "field": "insulin_glargine.dose",
+      "reason": "resume home dose - no units stated"
+    },
+    {
+      "field": "insulin_glargine.frequency",
+      "reason": "not stated"
+    }
+  ],
+  "forbidden_patterns": [
+    "(?i)glargine[^\\n]{0,30}\\d",
+    "(?i)\\d+\\s*units"
+  ],
+  "traps": [
+    "Insulin glargine appears three times (admission, prose, discharge) with no unit count"
+  ]
+}

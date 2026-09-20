@@ -1,0 +1,34 @@
+{
+  "doc_id": "doc_09",
+  "source": "data/synthetic/doc_09.txt",
+  "synthetic": true,
+  "difficulty": "abbreviation_variance",
+  "expected": [
+    {
+      "name": "hydrochlorothiazide",
+      "dose": "25 mg",
+      "frequency": "daily",
+      "literal_in_doc": "Hydrochlorothiazide 25 mg q.d.",
+      "section": "Discharge Medications"
+    },
+    {
+      "name": "carvedilol",
+      "dose": "12.5 mg",
+      "frequency": "BID",
+      "literal_in_doc": "Carvedilol 12.5 mg twice daily",
+      "section": "Discharge Medications"
+    },
+    {
+      "name": "rosuvastatin",
+      "dose": "10 mg",
+      "frequency": "nightly",
+      "literal_in_doc": "Rosuvastatin 10 mg QHS",
+      "section": "Discharge Medications"
+    }
+  ],
+  "should_abstain": [],
+  "traps": [
+    "Three different frequency notations: q.d. / twice daily / QHS",
+    "expected.frequency is normalised; literal_in_doc is not"
+  ]
+}

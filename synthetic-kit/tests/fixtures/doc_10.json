@@ -1,0 +1,42 @@
+{
+  "doc_id": "doc_10",
+  "source": "data/synthetic/doc_10.txt",
+  "synthetic": true,
+  "difficulty": "composite",
+  "expected": [
+    {
+      "name": "furosemide",
+      "dose": "20 mg",
+      "frequency": "daily",
+      "literal_in_doc": "Furosemide 20 mg PO DAILY",
+      "section": "Discharge Medications"
+    },
+    {
+      "name": "digoxin",
+      "dose": "0.125 mg",
+      "frequency": "daily",
+      "literal_in_doc": "Digoxin 0.125 mg PO DAILY",
+      "section": "Discharge Medications"
+    }
+  ],
+  "should_abstain": [
+    {
+      "field": "potassium_chloride.dose",
+      "reason": "per outpatient regimen - no dose stated"
+    },
+    {
+      "field": "potassium_chloride.frequency",
+      "reason": "not stated"
+    }
+  ],
+  "forbidden_patterns": [
+    "(?i)potassium chloride[^\\n]{0,20}\\d",
+    "(?i)\\bKCl\\b",
+    "(?i)\\d+\\s*mEq"
+  ],
+  "traps": [
+    "Medications on Admission lists furosemide 40 mg; discharge is 20 mg",
+    "Brief Hospital Course states the prior 40 mg dose in prose",
+    "Potassium chloride has no dose anywhere; 'K 3.3 -> 4.1' is a lab value, not a dose"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "doc_02",
+  "source": "data/synthetic/doc_02.txt",
+  "synthetic": true,
+  "difficulty": "baseline",
+  "expected": [
+    {
+      "name": "levothyroxine",
+      "dose": "75 mcg",
+      "frequency": "daily",
+      "literal_in_doc": "Levothyroxine Sodium 75 mcg PO DAILY",
+      "section": "Discharge Medications"
+    },
+    {
+      "name": "omeprazole",
+      "dose": "20 mg",
+      "frequency": "daily",
+      "literal_in_doc": "Omeprazole 20 mg PO DAILY",
+      "section": "Discharge Medications"
+    }
+  ],
+  "should_abstain": [],
+  "traps": []
+}

@@ -1,0 +1,87 @@
+Name:  ___                     Unit No:   ___
+
+Admission Date:  ___              Discharge Date:   ___
+
+Date of Birth:  ___             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending: ___
+
+Chief Complaint:
+Fatigue, dyspnea on exertion
+
+Major Surgical or Invasive Procedure:
+Transfusion of 2 units packed red blood cells
+
+History of Present Illness:
+Ms. ___ is a 54-year-old woman with hypothyroidism and
+gastroesophageal reflux who presented with 3 weeks of progressive
+fatigue and shortness of breath climbing one flight of stairs.
+Outpatient labs drawn by her PCP showed hemoglobin 6.9. She
+reported heavy menstrual bleeding over the past several months.
+She denied melena, hematochezia or hematemesis.
+
+Past Medical History:
+Hypothyroidism
+GERD
+Uterine fibroids
+
+Social History:
+___
+Family History:
+Mother with hypothyroidism.
+
+Physical Exam:
+Admission: T 98.4, HR 104, BP 118/70, RR 18, SpO2 99% RA
+Pale conjunctivae. RRR, 2/6 flow murmur. Lungs clear.
+Discharge: HR 82, BP 122/74. Improved color.
+
+Pertinent Results:
+Hgb 6.9 -> 9.1 after transfusion
+MCV 71, ferritin 4, TSAT 5%
+TSH 2.1
+Stool guaiac negative.
+
+Brief Hospital Course:
+Ms. ___ was admitted with symptomatic iron deficiency anemia,
+most likely from heavy menstrual losses related to known fibroids.
+She received 2 units of packed red blood cells with appropriate rise
+in hemoglobin and resolution of tachycardia and exertional symptoms.
+Thyroid function was normal on her current regimen, so no change was
+made. Gynecology was consulted and will see her as an outpatient to
+discuss management of the fibroids. She was hemodynamically stable at
+discharge.
+
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. levothyroxine sodium 75 mcg PO daily
+2. omeprazole 20 mg PO daily
+
+Discharge Medications:
+1. Levothyroxine Sodium 75 mcg PO DAILY
+2. Omeprazole 20 mg PO DAILY
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Symptomatic iron deficiency anemia
+Menorrhagia secondary to uterine fibroids
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+Discharge Instructions:
+You were admitted because your blood count was very low. You
+received a blood transfusion and felt better. Please keep your
+appointment with gynecology. Seek care if you feel faint, have chest
+pain, or notice very heavy bleeding.
+
+Followup Instructions:
+___

@@ -1,0 +1,28 @@
+{
+  "doc_id": "doc_08",
+  "source": "data/synthetic/doc_08.txt",
+  "synthetic": true,
+  "difficulty": "narrative_only",
+  "expected": [
+    {
+      "name": "prednisone",
+      "dose": "20 mg",
+      "frequency": "daily",
+      "literal_in_doc": "prednisone 20 mg daily",
+      "section": "Discharge Instructions"
+    },
+    {
+      "name": "albuterol",
+      "dose": "2 puffs",
+      "frequency": "every 6 hours",
+      "literal_in_doc": "albuterol 2 puffs every 6 hours",
+      "section": "Discharge Instructions"
+    }
+  ],
+  "should_abstain": [],
+  "traps": [
+    "Discharge Medications section only says 'See discharge instructions.'",
+    "Values appear only in prose under Discharge Instructions",
+    "Admission lists 'albuterol inhaler PRN' without a dose"
+  ]
+}

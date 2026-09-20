@@ -1,0 +1,34 @@
+{
+  "doc_id": "doc_03",
+  "source": "data/synthetic/doc_03.txt",
+  "synthetic": true,
+  "difficulty": "dose_change",
+  "expected": [
+    {
+      "name": "lisinopril",
+      "dose": "5 mg",
+      "frequency": "daily",
+      "literal_in_doc": "Lisinopril 5 mg PO DAILY",
+      "section": "Discharge Medications"
+    },
+    {
+      "name": "furosemide",
+      "dose": "40 mg",
+      "frequency": "daily",
+      "literal_in_doc": "Furosemide 40 mg PO DAILY",
+      "section": "Discharge Medications"
+    },
+    {
+      "name": "metoprolol tartrate",
+      "dose": "25 mg",
+      "frequency": "BID",
+      "literal_in_doc": "Metoprolol Tartrate 25 mg PO BID",
+      "section": "Discharge Medications"
+    }
+  ],
+  "should_abstain": [],
+  "traps": [
+    "Medications on Admission lists lisinopril 10 mg - wrong value if the admission section is used",
+    "Brief Hospital Course also mentions 5 mg in prose - correct value, but not the discharge list"
+  ]
+}

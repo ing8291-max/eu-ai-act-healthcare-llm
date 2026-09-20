@@ -1,0 +1,99 @@
+Name:  ___                     Unit No:   ___
+
+Admission Date:  ___              Discharge Date:   ___
+
+Date of Birth:  ___             Sex:   M
+
+Service: CARDIOLOGY
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending: ___
+
+Chief Complaint:
+Chest pain
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+___ is a 68-year-old man with hypertension, hyperlipidemia and a
+remote smoking history who presented to the ED with 2 hours of
+substernal chest pressure that began while shoveling. Pain was
+6/10, non-radiating, and resolved with rest and sublingual
+nitroglycerin in the ambulance. He denied dyspnea, diaphoresis or
+palpitations. ECG in the ED showed sinus rhythm without acute ST
+changes. Initial troponin was below the limit of detection.
+
+Past Medical History:
+- Hypertension
+- Hyperlipidemia
+- Former smoker, quit ___ years ago
+
+Social History:
+___
+Family History:
+Father with MI at age 70.
+
+Physical Exam:
+ADMISSION EXAM
+VS: T 98.1, HR 72, BP 142/84, RR 16, SpO2 97% RA
+GEN: comfortable, no acute distress
+CV: RRR, normal S1/S2, no murmurs
+LUNGS: clear bilaterally
+EXT: no edema
+
+DISCHARGE EXAM
+VS: T 98.0, HR 64, BP 128/76, RR 14, SpO2 98% RA
+Unchanged from admission.
+
+Pertinent Results:
+Troponin T: <0.01 x3 (0h, 3h, 6h)
+LDL 118, HDL 41, TG 160
+Cr 0.9, K 4.2
+Stress echo: no inducible ischemia, EF 60%.
+
+Brief Hospital Course:
+Mr. ___ was admitted for evaluation of chest pain concerning for
+acute coronary syndrome. Serial troponins were negative and serial
+ECGs showed no dynamic changes, and myocardial infarction was
+ruled out. He underwent exercise stress echocardiography, which
+showed no inducible ischemia at an adequate workload. He remained
+chest pain free for the remainder of the stay. His home
+medications were continued without change. He was discharged home
+with outpatient cardiology follow-up.
+
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. metoprolol tartrate 25 mg PO BID
+2. atorvastatin 40 mg PO daily
+3. aspirin 81 mg PO daily
+
+Discharge Medications:
+1. Metoprolol Tartrate 25 mg PO BID
+2. Atorvastatin 40 mg PO DAILY
+3. Aspirin 81 mg PO DAILY
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary: Chest pain, non-cardiac; myocardial infarction ruled out
+Secondary: Hypertension, Hyperlipidemia
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+Discharge Instructions:
+Dear Mr. ___,
+You were admitted for chest pain. Blood tests and a stress test did
+not show a heart attack or blocked heart arteries. Please continue
+your usual medicines as listed. Return to the emergency department
+if you have chest pain that does not go away with rest, shortness
+of breath, or fainting.
+
+Followup Instructions:
+___

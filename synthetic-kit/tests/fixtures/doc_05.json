@@ -1,0 +1,32 @@
+{
+  "doc_id": "doc_05",
+  "source": "data/synthetic/doc_05.txt",
+  "synthetic": true,
+  "difficulty": "missing_dose",
+  "expected": [
+    {
+      "name": "amlodipine",
+      "dose": "5 mg",
+      "frequency": "daily",
+      "literal_in_doc": "Amlodipine 5 mg PO DAILY",
+      "section": "Discharge Medications"
+    }
+  ],
+  "should_abstain": [
+    {
+      "field": "gabapentin.dose",
+      "reason": "listed without a dose"
+    },
+    {
+      "field": "gabapentin.frequency",
+      "reason": "listed without a frequency"
+    }
+  ],
+  "forbidden_patterns": [
+    "(?i)gabapentin[^\\n]{0,20}\\d"
+  ],
+  "traps": [
+    "Gabapentin is on the discharge list with no dose anywhere in the document",
+    "Medications on Admission is empty - there is no prior dose to fall back on"
+  ]
+}

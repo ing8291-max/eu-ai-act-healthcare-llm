@@ -1,0 +1,95 @@
+Name:  ___                     Unit No:   ___
+
+Admission Date:  ___              Discharge Date:   ___
+
+Date of Birth:  ___             Sex:   M
+
+Service: CARDIOLOGY
+
+Allergies:
+Amiodarone (thyroid dysfunction)
+
+Attending: ___
+
+Chief Complaint:
+Dyspnea, palpitations
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Mr. ___ is an 80-year-old man with heart failure with preserved
+ejection fraction, permanent atrial fibrillation and CKD stage 3b
+who presented with 5 days of increasing dyspnea, lower extremity
+edema and palpitations. He was found to be in atrial fibrillation
+with rapid ventricular response, heart rate 128. He lives alone and
+manages his own medications.
+
+Past Medical History:
+HFpEF, EF 55%
+Permanent atrial fibrillation
+CKD stage 3b, baseline Cr 1.6
+Hypertension
+
+Social History:
+___
+Family History:
+Noncontributory.
+
+Physical Exam:
+Admission: HR 128 irregular, BP 136/84, SpO2 92% RA. JVP 12 cm.
+Crackles at bases. 2+ edema to mid-shin.
+Discharge: HR 82 irregular, BP 118/70, SpO2 96% RA. JVP 7 cm.
+Trace edema. Weight 68.4 kg (admission 73.9 kg).
+
+Pertinent Results:
+Cr 1.7 -> 1.6
+K 3.3 -> 4.1 after repletion
+Digoxin level 0.7
+BNP 980
+
+Brief Hospital Course:
+Mr. ___ was admitted with acute on chronic diastolic heart failure
+precipitated by atrial fibrillation with rapid ventricular response.
+Rate control improved with diuresis and continuation of digoxin.
+He was diuresed to a dry weight with a total loss of 5.5 kg. His home
+diuretic had been furosemide 40 mg daily; given his weight loss,
+stable renal function and the risk of over-diuresis at home, the
+dose was halved at discharge. His potassium was low on admission
+and was repleted in hospital. He was told to continue potassium
+supplementation per his outpatient cardiologist, who will adjust it
+based on his next lab check within 1 week.
+
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. furosemide 40 mg PO daily
+2. digoxin 0.125 mg PO daily
+
+Discharge Medications:
+1. Furosemide 20 mg PO DAILY
+2. Digoxin 0.125 mg PO DAILY
+3. Potassium Chloride - per outpatient regimen
+
+Discharge Disposition:
+Home With Service
+
+Discharge Diagnosis:
+Primary: Acute on chronic diastolic heart failure
+Secondary: Atrial fibrillation with rapid ventricular response,
+hypokalemia, CKD stage 3b
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+Discharge Instructions:
+You were admitted because of extra fluid and a fast heart rhythm. We
+removed the fluid and your heart rate is better controlled. Your
+water pill dose has been LOWERED. Take the dose on this form, not the
+old one. Continue your potassium as directed by your cardiologist.
+Weigh yourself every morning. Call if your weight goes up more than
+3 lbs in a day.
+
+Followup Instructions:
+___
