@@ -1,0 +1,17 @@
+{
+  "doc_id": "doc_20",
+  "source": "data/synthetic/doc_20.txt",
+  "synthetic": true,
+  "difficulty": "no_discharge_list",
+  "expected": [],
+  "should_abstain": [
+    {
+      "field": "discharge_medications.list",
+      "reason": "the discharge section states 'resume all home medications' and names none"
+    }
+  ],
+  "traps": [
+    "Medications on Admission has full doses - it is not a discharge order",
+    "The only correct output is an abstention with the sentence as evidence"
+  ]
+}

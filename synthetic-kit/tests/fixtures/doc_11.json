@@ -1,0 +1,40 @@
+{
+  "doc_id": "doc_11",
+  "source": "data/synthetic/doc_11.txt",
+  "synthetic": true,
+  "difficulty": "prn_dosing",
+  "expected": [
+    {
+      "name": "oxycodone",
+      "dose": "5 mg",
+      "frequency": "every 4 hours PRN",
+      "literal_in_doc": "Oxycodone 5 mg PO Q4H PRN pain",
+      "section": "Discharge Medications"
+    },
+    {
+      "name": "acetaminophen",
+      "dose": "650 mg",
+      "frequency": "every 6 hours PRN",
+      "literal_in_doc": "Acetaminophen 650 mg PO Q6H PRN",
+      "section": "Discharge Medications"
+    },
+    {
+      "name": "docusate sodium",
+      "dose": "100 mg",
+      "frequency": "BID",
+      "literal_in_doc": "Docusate Sodium 100 mg PO BID",
+      "section": "Discharge Medications"
+    }
+  ],
+  "should_abstain": [],
+  "absent_from_section": {
+    "section": "Discharge Medications",
+    "names": [
+      "ibuprofen"
+    ]
+  },
+  "traps": [
+    "PRN medications carry a condition ('PRN pain') that must not be dropped",
+    "Ibuprofen is on the admission list and was stopped at discharge"
+  ]
+}

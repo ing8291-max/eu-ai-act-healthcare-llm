@@ -1,0 +1,84 @@
+Name:  ___                     Unit No:   ___
+
+Admission Date:  ___              Discharge Date:   ___
+
+Date of Birth:  ___             Sex:   M
+
+Service: CARDIOLOGY
+
+Allergies:
+No Known Allergies
+
+Attending: ___
+
+Chief Complaint:
+Palpitations
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Mr. ___ is a 66-year-old man with hypertension and hyperlipidemia
+who presented with two days of palpitations and mild exertional
+dyspnea. He was found to be in atrial fibrillation with a rapid
+ventricular response in the emergency department. He denied chest
+pain, syncope or recent illness.
+
+Past Medical History:
+Hypertension
+Hyperlipidemia
+
+Social History:
+___
+Family History:
+Father with atrial fibrillation.
+
+Physical Exam:
+Admission: HR 128 irregular, BP 142/88, SpO2 97% RA
+Irregularly irregular rhythm. No murmurs. Lungs clear.
+Discharge: HR 74, BP 126/78, rhythm regular.
+
+Pertinent Results:
+ECG: atrial fibrillation with rapid ventricular response, later
+normal sinus rhythm.
+TSH 1.8, Cr 1.0, troponin negative x2
+Echocardiogram: normal ejection fraction, mild left atrial
+enlargement.
+
+Brief Hospital Course:
+Mr. ___ was admitted with new atrial fibrillation with rapid
+ventricular response. His rate was controlled and he converted to
+sinus rhythm. His short-acting beta blocker was changed to a
+long-acting formulation to improve adherence, and the statin dose
+was increased for secondary prevention. Anticoagulation was
+discussed and deferred given a CHA2DS2-VASc score of 1.
+
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. metoprolol tartrate 25 mg po bid
+2. atorvastatin 40 mg po daily
+
+Discharge Medications:
+1. Metoprolol Succinate XL 50 mg PO DAILY
+2. Atorvastatin 80 mg PO DAILY
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Paroxysmal atrial fibrillation
+Hypertension
+Hyperlipidemia
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+Discharge Instructions:
+Your heart medication was changed to a once-daily form. Take only
+the new one. Your cholesterol medication dose was increased. Call
+if you feel your heart racing again, have chest pain, or feel faint.
+
+Followup Instructions:
+___

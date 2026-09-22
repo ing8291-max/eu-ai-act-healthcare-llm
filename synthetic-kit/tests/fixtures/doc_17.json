@@ -1,0 +1,44 @@
+{
+  "doc_id": "doc_17",
+  "source": "data/synthetic/doc_17.txt",
+  "synthetic": true,
+  "difficulty": "distractor_drugs",
+  "expected": [
+    {
+      "name": "amoxicillin-clavulanate",
+      "dose": "875 mg",
+      "frequency": "BID",
+      "literal_in_doc": "Amoxicillin-Clavulanate 875 mg PO BID",
+      "section": "Discharge Medications"
+    },
+    {
+      "name": "guaifenesin",
+      "dose": "600 mg",
+      "frequency": "BID",
+      "literal_in_doc": "Guaifenesin 600 mg PO BID",
+      "section": "Discharge Medications"
+    },
+    {
+      "name": "albuterol",
+      "dose": "2 puffs",
+      "frequency": "every 6 hours PRN",
+      "literal_in_doc": "Albuterol Inhaler 2 puffs INH Q6H PRN",
+      "section": "Discharge Medications"
+    }
+  ],
+  "should_abstain": [],
+  "absent_from_section": {
+    "section": "Discharge Medications",
+    "names": [
+      "vancomycin",
+      "cefepime",
+      "warfarin"
+    ]
+  },
+  "traps": [
+    "Allergies names a drug (Sulfamethoxazole) that is not a medication order",
+    "Vancomycin and cefepime appear in the course as inpatient-only therapy",
+    "Warfarin appears in the past medical history and was stopped years ago",
+    "Amlodipine is on the admission list but not on the discharge list"
+  ]
+}

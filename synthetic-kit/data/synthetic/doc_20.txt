@@ -1,0 +1,77 @@
+Name:  ___                     Unit No:   ___
+
+Admission Date:  ___              Discharge Date:   ___
+
+Date of Birth:  ___             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies
+
+Attending: ___
+
+Chief Complaint:
+Syncope
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Mr. ___ is a 68-year-old man with hypertension and hyperlipidemia
+who presented after a witnessed syncopal episode while standing in
+line at a store. He recovered within a minute without confusion. He
+denied chest pain, palpitations or preceding symptoms.
+
+Past Medical History:
+Hypertension
+Hyperlipidemia
+
+Social History:
+___
+Family History:
+Noncontributory.
+
+Physical Exam:
+Admission: HR 72, BP 130/78, no orthostatic changes.
+Cardiac exam normal. Neurologic exam non-focal.
+Discharge: Unchanged, ambulating independently.
+
+Pertinent Results:
+ECG: normal sinus rhythm, no conduction abnormality.
+Telemetry: no arrhythmia over 24 hours.
+Troponin negative x2, Cr 1.0, hemoglobin 14.2
+Echocardiogram: normal.
+
+Brief Hospital Course:
+Mr. ___ was admitted for syncope of unclear cause. Telemetry
+monitoring showed no arrhythmia and his cardiac workup was
+unremarkable. The episode was felt to be vasovagal. No medication
+changes were made during this admission and he was discharged on his
+usual outpatient regimen.
+
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. atenolol 50 mg po daily
+2. simvastatin 20 mg po nightly
+
+Discharge Medications:
+Resume all home medications. No changes were made this admission.
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Syncope, likely vasovagal
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+Discharge Instructions:
+Sit or lie down if you feel lightheaded. Drink enough fluids. Call
+if you faint again, have chest pain, or notice a racing heartbeat.
+
+Followup Instructions:
+___

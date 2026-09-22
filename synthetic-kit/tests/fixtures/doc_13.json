@@ -1,0 +1,33 @@
+{
+  "doc_id": "doc_13",
+  "source": "data/synthetic/doc_13.txt",
+  "synthetic": true,
+  "difficulty": "salt_form_change",
+  "expected": [
+    {
+      "name": "metoprolol succinate",
+      "dose": "50 mg",
+      "frequency": "daily",
+      "literal_in_doc": "Metoprolol Succinate XL 50 mg PO DAILY",
+      "section": "Discharge Medications"
+    },
+    {
+      "name": "atorvastatin",
+      "dose": "80 mg",
+      "frequency": "daily",
+      "literal_in_doc": "Atorvastatin 80 mg PO DAILY",
+      "section": "Discharge Medications"
+    }
+  ],
+  "should_abstain": [],
+  "absent_from_section": {
+    "section": "Discharge Medications",
+    "names": [
+      "tartrate"
+    ]
+  },
+  "traps": [
+    "Admission has metoprolol tartrate 25 mg BID; discharge is the succinate form, 50 mg daily",
+    "Atorvastatin dose was increased from 40 mg to 80 mg"
+  ]
+}

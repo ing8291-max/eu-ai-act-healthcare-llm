@@ -1,0 +1,88 @@
+Name:  ___                     Unit No:   ___
+
+Admission Date:  ___              Discharge Date:   ___
+
+Date of Birth:  ___             Sex:   F
+
+Service: CARDIOLOGY
+
+Allergies:
+No Known Allergies
+
+Attending: ___
+
+Chief Complaint:
+Leg swelling and weight gain
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Ms. ___ is a 75-year-old woman with heart failure with reduced
+ejection fraction and chronic kidney disease who presented with two
+weeks of increasing leg swelling, orthopnea and a six pound weight
+gain. She reported taking all of her medications as prescribed.
+
+Past Medical History:
+Heart failure with reduced ejection fraction
+Chronic kidney disease stage 3
+Hypertension
+
+Social History:
+___
+Family History:
+Noncontributory.
+
+Physical Exam:
+Admission: HR 92, BP 136/82, SpO2 94% RA
+Jugular venous distension, bibasilar crackles, 2+ pitting edema.
+Discharge: HR 76, BP 122/74, edema trace, lungs clear.
+
+Pertinent Results:
+Cr 1.6 -> 1.8, K 5.6 -> 4.4, Mg 1.8 -> 2.1
+BNP 1840
+Echocardiogram: ejection fraction 30%, unchanged.
+Weight 78.6 kg -> 75.2 kg
+
+Brief Hospital Course:
+Ms. ___ was admitted with a heart failure exacerbation and
+diuresed with intravenous therapy before conversion to an oral
+regimen at a higher dose than her home dose. Her beta blocker was
+uptitrated once she was euvolemic. Spironolactone was stopped
+because of hyperkalemia on admission and will not be restarted.
+Her nephrologist manages her electrolyte supplementation and the
+outpatient dose was not available at discharge.
+
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. carvedilol 3.125 mg po bid
+2. torsemide 20 mg po daily
+3. spironolactone 25 mg po daily
+
+Discharge Medications:
+1. Carvedilol 6.25 mg PO BID
+2. Torsemide 40 mg q.d.
+3. Magnesium Oxide per outpatient nephrology regimen
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Acute on chronic systolic heart failure
+Hyperkalemia
+Chronic kidney disease stage 3
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory with a walker.
+
+Discharge Instructions:
+Weigh yourself every morning and call if you gain more than three
+pounds in two days. Stop the water pill you were taking before and
+use the new dose on your list. Do not restart the medication that
+was stopped for your potassium. Call if you have swelling, trouble
+breathing lying flat, or muscle weakness.
+
+Followup Instructions:
+___

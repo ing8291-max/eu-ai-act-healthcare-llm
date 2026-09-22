@@ -1,0 +1,36 @@
+{
+  "doc_id": "doc_14",
+  "source": "data/synthetic/doc_14.txt",
+  "synthetic": true,
+  "difficulty": "held_medication",
+  "expected": [
+    {
+      "name": "lisinopril",
+      "dose": "10 mg",
+      "frequency": "daily",
+      "literal_in_doc": "Lisinopril 10 mg PO DAILY",
+      "section": "Discharge Medications"
+    },
+    {
+      "name": "aspirin",
+      "dose": "81 mg",
+      "frequency": "daily",
+      "literal_in_doc": "Aspirin 81 mg PO DAILY",
+      "section": "Discharge Medications"
+    }
+  ],
+  "should_abstain": [
+    {
+      "field": "metformin.dose",
+      "reason": "held at discharge - no dose is ordered"
+    },
+    {
+      "field": "metformin.frequency",
+      "reason": "held at discharge"
+    }
+  ],
+  "traps": [
+    "Metformin is ON the discharge list but marked HOLD",
+    "Admission lists metformin 500 mg BID - copying it is a false positive"
+  ]
+}

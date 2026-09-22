@@ -33,6 +33,17 @@ every expected value.
 | 08 | narrative only | values only in prose, no list |
 | 09 | notation variance | q.d. / twice daily / QHS |
 | 10 | composite | dose change + missing dose together |
+| 11 | PRN dosing | "PRN pain" condition must survive; stopped ibuprofen |
+| 12 | taper | one entry holds 40 mg then 20 mg then stop → abstain |
+| 13 | salt form | tartrate 25 BID on admission → succinate XL 50 daily |
+| 14 | held med | metformin is on the list but marked HOLD → abstain |
+| 15 | unit variance | 0.075 mg = 75 mcg, 125 mcg = 0.125 mg |
+| 16 | route variance | SC / INH / sliding scale; 250/50 is a strength |
+| 17 | distractors | allergy drug, inpatient-only IV antibiotics, old warfarin |
+| 18 | IV → PO | IV metoprolol 5 mg in prose vs PO 50 mg at discharge |
+| 19 | brand duplicate | Tylenol and acetaminophen are one medication |
+| 20 | no list | "Resume all home medications" → abstain, do not copy admission |
+| 21 | composite | 2 dose changes + discontinuation + missing dose + q.d. |
 
 ## Fixture fields
 

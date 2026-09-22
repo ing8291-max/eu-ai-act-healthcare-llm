@@ -1,0 +1,36 @@
+{
+  "doc_id": "doc_12",
+  "source": "data/synthetic/doc_12.txt",
+  "synthetic": true,
+  "difficulty": "taper_schedule",
+  "expected": [
+    {
+      "name": "pantoprazole",
+      "dose": "40 mg",
+      "frequency": "daily",
+      "literal_in_doc": "Pantoprazole 40 mg PO DAILY",
+      "section": "Discharge Medications"
+    },
+    {
+      "name": "calcium carbonate",
+      "dose": "500 mg",
+      "frequency": "BID",
+      "literal_in_doc": "Calcium Carbonate 500 mg PO BID",
+      "section": "Discharge Medications"
+    }
+  ],
+  "should_abstain": [
+    {
+      "field": "prednisone.dose",
+      "reason": "taper: two doses over time, not one value"
+    },
+    {
+      "field": "prednisone.frequency",
+      "reason": "schedule with a stop date, not a single frequency"
+    }
+  ],
+  "traps": [
+    "Prednisone has 40 mg and 20 mg in one entry - reporting either alone is wrong",
+    "The entry wraps across two lines"
+  ]
+}

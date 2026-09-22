@@ -1,0 +1,47 @@
+{
+  "doc_id": "doc_21",
+  "source": "data/synthetic/doc_21.txt",
+  "synthetic": true,
+  "difficulty": "composite",
+  "expected": [
+    {
+      "name": "carvedilol",
+      "dose": "6.25 mg",
+      "frequency": "BID",
+      "literal_in_doc": "Carvedilol 6.25 mg PO BID",
+      "section": "Discharge Medications"
+    },
+    {
+      "name": "torsemide",
+      "dose": "40 mg",
+      "frequency": "daily",
+      "literal_in_doc": "Torsemide 40 mg q.d.",
+      "section": "Discharge Medications"
+    }
+  ],
+  "should_abstain": [
+    {
+      "field": "magnesium_oxide.dose",
+      "reason": "per outpatient regimen - no dose stated"
+    },
+    {
+      "field": "magnesium_oxide.frequency",
+      "reason": "not stated"
+    }
+  ],
+  "forbidden_patterns": [
+    "(?i)magnesium oxide[^\\n]{0,20}\\d"
+  ],
+  "absent_from_section": {
+    "section": "Discharge Medications",
+    "names": [
+      "spironolactone"
+    ]
+  },
+  "traps": [
+    "Two dose changes (carvedilol 3.125 -> 6.25, torsemide 20 -> 40)",
+    "Spironolactone stopped for hyperkalemia - reporting it is a false positive",
+    "Magnesium oxide has no dose; 'Mg 1.8 -> 2.1' is a lab value",
+    "Torsemide frequency is written q.d."
+  ]
+}

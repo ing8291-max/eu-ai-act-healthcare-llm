@@ -1,0 +1,80 @@
+Name:  ___                     Unit No:   ___
+
+Admission Date:  ___              Discharge Date:   ___
+
+Date of Birth:  ___             Sex:   M
+
+Service: CARDIOLOGY
+
+Allergies:
+No Known Allergies
+
+Attending: ___
+
+Chief Complaint:
+Rapid heart rate
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Mr. ___ is a 70-year-old man with hypertension who presented with
+palpitations and was found to be in atrial fibrillation with a
+ventricular rate in the 140s. He reported mild dyspnea but no chest
+pain. Symptoms began the morning of admission.
+
+Past Medical History:
+Hypertension
+Obstructive sleep apnea
+
+Social History:
+___
+Family History:
+Noncontributory.
+
+Physical Exam:
+Admission: HR 142 irregular, BP 148/90, SpO2 96% RA
+Irregularly irregular. No jugular venous distension.
+Discharge: HR 76, BP 128/76.
+
+Pertinent Results:
+ECG: atrial fibrillation.
+Troponin negative x2, TSH normal, Cr 1.1
+Echocardiogram: ejection fraction 55%, mild left atrial enlargement.
+
+Brief Hospital Course:
+Mr. ___ was admitted with atrial fibrillation with rapid
+ventricular response. He was given IV metoprolol 5 mg every 6 hours
+for initial rate control and transitioned to oral therapy on
+hospital day 2 once his rate was stable. Anticoagulation was started
+given a CHA2DS2-VASc score of 3. He was referred for a sleep study
+as an outpatient.
+
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. hydrochlorothiazide 25 mg po daily
+
+Discharge Medications:
+1. Metoprolol Tartrate 50 mg PO BID
+2. Apixaban 5 mg PO BID
+3. Hydrochlorothiazide 25 mg PO DAILY
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Atrial fibrillation with rapid ventricular response
+Hypertension
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+Discharge Instructions:
+Take the blood thinner twice a day at the same times and do not
+miss doses. Call if you have bleeding that will not stop, black
+stools, chest pain, or your heart races again.
+
+Followup Instructions:
+___

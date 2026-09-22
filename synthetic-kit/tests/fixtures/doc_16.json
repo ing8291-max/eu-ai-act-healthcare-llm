@@ -1,0 +1,40 @@
+{
+  "doc_id": "doc_16",
+  "source": "data/synthetic/doc_16.txt",
+  "synthetic": true,
+  "difficulty": "route_variance",
+  "expected": [
+    {
+      "name": "enoxaparin",
+      "dose": "40 mg",
+      "frequency": "daily",
+      "literal_in_doc": "Enoxaparin 40 mg SC DAILY",
+      "section": "Discharge Medications"
+    },
+    {
+      "name": "fluticasone-salmeterol",
+      "dose": "1 puff (250/50)",
+      "frequency": "BID",
+      "literal_in_doc": "Fluticasone-Salmeterol 250/50 1 puff INH BID",
+      "section": "Discharge Medications"
+    }
+  ],
+  "should_abstain": [
+    {
+      "field": "insulin_lispro.dose",
+      "reason": "sliding scale - no unit count stated"
+    },
+    {
+      "field": "insulin_lispro.frequency",
+      "reason": "not stated"
+    }
+  ],
+  "forbidden_patterns": [
+    "(?i)lispro[^\\n]{0,30}\\d",
+    "(?i)\\d+\\s*units"
+  ],
+  "traps": [
+    "Three routes in one list: SC, INH, SC sliding scale",
+    "250/50 is a strength pair, not a dose in mg"
+  ]
+}

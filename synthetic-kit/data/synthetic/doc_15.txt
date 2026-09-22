@@ -1,0 +1,83 @@
+Name:  ___                     Unit No:   ___
+
+Admission Date:  ___              Discharge Date:   ___
+
+Date of Birth:  ___             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies
+
+Attending: ___
+
+Chief Complaint:
+Lightheadedness
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Ms. ___ is a 79-year-old woman with hypothyroidism, atrial
+fibrillation and iron deficiency who presented with two weeks of
+lightheadedness on standing. She had no syncope, chest pain or
+palpitations. Her family reported she had been eating poorly.
+
+Past Medical History:
+Hypothyroidism
+Atrial fibrillation
+Iron deficiency anemia
+
+Social History:
+___
+Family History:
+Noncontributory.
+
+Physical Exam:
+Admission: HR 58, BP 104/62 sitting, 92/58 standing.
+Discharge: HR 66, BP 118/70 with no orthostatic change.
+
+Pertinent Results:
+TSH 6.8, free T4 low normal
+Hgb 10.4, ferritin 18
+Digoxin level 0.8 (therapeutic)
+
+Brief Hospital Course:
+Ms. ___ was admitted with orthostatic symptoms. Her thyroid
+replacement was adjusted for a mildly elevated thyroid stimulating
+hormone, and her rate control medication was continued at the same
+dose with a therapeutic level. Iron supplementation was restarted.
+Her orthostatic symptoms resolved with hydration and she ambulated
+safely with physical therapy before discharge.
+
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. levothyroxine 50 mcg po daily
+2. digoxin po daily
+3. ferrous sulfate po daily
+
+Discharge Medications:
+1. Levothyroxine 0.075 mg PO DAILY
+2. Digoxin 125 mcg PO DAILY
+3. Ferrous Sulfate 325 mg PO DAILY
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Orthostatic hypotension
+Hypothyroidism
+Iron deficiency anemia
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory with a cane.
+
+Discharge Instructions:
+Your thyroid pill strength was increased. Stand up slowly. Take the
+iron tablet with food if it upsets your stomach. Call if you faint,
+fall, or feel your heart beating irregularly.
+
+Followup Instructions:
+___

@@ -1,0 +1,81 @@
+Name:  ___                     Unit No:   ___
+
+Admission Date:  ___              Discharge Date:   ___
+
+Date of Birth:  ___             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies
+
+Attending: ___
+
+Chief Complaint:
+Flank pain and fever
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Ms. ___ is a 44-year-old woman with hypertension who presented
+with two days of right flank pain, fever and dysuria. Urinalysis was
+consistent with infection and imaging showed no obstructing stone.
+She was admitted for intravenous antibiotics and pain control.
+
+Past Medical History:
+Hypertension
+Recurrent urinary tract infections
+
+Social History:
+___
+Family History:
+Noncontributory.
+
+Physical Exam:
+Admission: T 38.9, HR 110, BP 118/70
+Right costovertebral angle tenderness.
+Discharge: T 37.1, HR 80, tenderness resolved.
+
+Pertinent Results:
+Urine culture: Escherichia coli, pan-sensitive.
+WBC 14.1 -> 7.6, Cr 0.8
+Computed tomography: no hydronephrosis, no stone.
+
+Brief Hospital Course:
+Ms. ___ was treated for pyelonephritis with intravenous
+antibiotics and transitioned to oral therapy once afebrile. Pain was
+managed with as-needed analgesia. Her blood pressure medication was
+continued unchanged. The discharge list below was reconciled by
+pharmacy, which flagged that two entries are the same medication
+under different names.
+
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. losartan 50 mg po daily
+
+Discharge Medications:
+1. Ciprofloxacin 500 mg PO BID
+2. Acetaminophen 500 mg PO Q8H PRN
+3. Tylenol 500 mg PO Q8H PRN - same medication as above, do not
+take both
+4. Losartan 50 mg PO DAILY
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Acute pyelonephritis
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+Discharge Instructions:
+Two lines on your list are the same pain medicine under different
+names. Take only one of them. Finish the antibiotic. Call if your
+fever returns or the pain worsens.
+
+Followup Instructions:
+___

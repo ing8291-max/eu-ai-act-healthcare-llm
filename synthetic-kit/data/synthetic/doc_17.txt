@@ -1,0 +1,82 @@
+Name:  ___                     Unit No:   ___
+
+Admission Date:  ___              Discharge Date:   ___
+
+Date of Birth:  ___             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Sulfa (Sulfamethoxazole)
+
+Attending: ___
+
+Chief Complaint:
+Cough and fever
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Ms. ___ is a 64-year-old woman with a history of deep vein
+thrombosis treated with warfarin several years ago, now off
+anticoagulation, who presented with five days of productive cough,
+fever and pleuritic chest pain. Chest radiograph showed a right
+lower lobe infiltrate.
+
+Past Medical History:
+Community-acquired pneumonia
+Prior deep vein thrombosis, previously on warfarin
+Hypertension
+
+Social History:
+___
+Family History:
+Noncontributory.
+
+Physical Exam:
+Admission: T 38.6, HR 104, BP 126/74, RR 20, SpO2 93% RA
+Crackles at the right base.
+Discharge: T 37.0, SpO2 96% RA, crackles improved.
+
+Pertinent Results:
+Chest radiograph: right lower lobe infiltrate.
+WBC 15.2 -> 8.9
+Blood cultures negative to date.
+
+Brief Hospital Course:
+Ms. ___ was treated for community-acquired pneumonia. Empiric
+intravenous vancomycin and cefepime were started in the emergency
+department and narrowed after 48 hours when cultures remained
+negative. She was transitioned to oral therapy to complete the
+course at home. Her cough was managed symptomatically and her
+rescue inhaler was continued as needed.
+
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amlodipine 5 mg po daily
+2. albuterol inhaler as needed
+
+Discharge Medications:
+1. Amoxicillin-Clavulanate 875 mg PO BID
+2. Guaifenesin 600 mg PO BID
+3. Albuterol Inhaler 2 puffs INH Q6H PRN
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Community-acquired pneumonia
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+Discharge Instructions:
+Finish the whole antibiotic course even if you feel better. Use the
+inhaler if you feel tight. Call if your fever comes back, your
+breathing worsens, or you cough up blood.
+
+Followup Instructions:
+___

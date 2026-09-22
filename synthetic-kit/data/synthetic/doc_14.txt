@@ -1,0 +1,80 @@
+Name:  ___                     Unit No:   ___
+
+Admission Date:  ___              Discharge Date:   ___
+
+Date of Birth:  ___             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies
+
+Attending: ___
+
+Chief Complaint:
+Nausea, vomiting and decreased oral intake
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Ms. ___ is a 72-year-old woman with type 2 diabetes and
+hypertension who presented with three days of nausea, vomiting and
+poor oral intake after a viral illness. She was found to have acute
+kidney injury with a creatinine of 2.1 from a baseline of 1.0.
+
+Past Medical History:
+Type 2 diabetes mellitus
+Hypertension
+
+Social History:
+___
+Family History:
+Noncontributory.
+
+Physical Exam:
+Admission: T 98.0, HR 102, BP 108/64, dry mucous membranes.
+Discharge: HR 78, BP 124/72. Well hydrated.
+
+Pertinent Results:
+Cr 2.1 -> 1.3 with intravenous fluids
+Bicarbonate 20 -> 25
+Glucose 168, hemoglobin A1c 7.4%
+
+Brief Hospital Course:
+Ms. ___ was admitted with acute kidney injury from volume
+depletion. She improved with intravenous fluids and her creatinine
+trended down but had not returned to baseline at discharge. Her
+metformin was held until renal function is rechecked because of the
+risk of lactic acidosis. Her antihypertensive was resumed once she
+was volume replete.
+
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. metformin 500 mg po bid
+2. lisinopril 10 mg po daily
+
+Discharge Medications:
+1. Lisinopril 10 mg PO DAILY
+2. HOLD Metformin until creatinine is rechecked by your doctor
+3. Aspirin 81 mg PO DAILY
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Acute kidney injury secondary to volume depletion
+Type 2 diabetes mellitus
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+Discharge Instructions:
+Do not restart your diabetes pill until your kidney blood test is
+repeated and your doctor tells you to. Drink fluids. Call if you
+cannot keep liquids down or you are urinating much less than usual.
+
+Followup Instructions:
+___

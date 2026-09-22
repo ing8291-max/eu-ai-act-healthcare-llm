@@ -1,0 +1,34 @@
+{
+  "doc_id": "doc_15",
+  "source": "data/synthetic/doc_15.txt",
+  "synthetic": true,
+  "difficulty": "unit_variance",
+  "expected": [
+    {
+      "name": "levothyroxine",
+      "dose": "75 mcg",
+      "frequency": "daily",
+      "literal_in_doc": "Levothyroxine 0.075 mg PO DAILY",
+      "section": "Discharge Medications"
+    },
+    {
+      "name": "digoxin",
+      "dose": "0.125 mg",
+      "frequency": "daily",
+      "literal_in_doc": "Digoxin 125 mcg PO DAILY",
+      "section": "Discharge Medications"
+    },
+    {
+      "name": "ferrous sulfate",
+      "dose": "325 mg",
+      "frequency": "daily",
+      "literal_in_doc": "Ferrous Sulfate 325 mg PO DAILY",
+      "section": "Discharge Medications"
+    }
+  ],
+  "should_abstain": [],
+  "traps": [
+    "The document writes mcg doses in mg and mg doses in mcg",
+    "expected.dose is normalised; literal_in_doc keeps the written unit"
+  ]
+}

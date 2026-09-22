@@ -1,0 +1,82 @@
+Name:  ___                     Unit No:   ___
+
+Admission Date:  ___              Discharge Date:   ___
+
+Date of Birth:  ___             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies
+
+Attending: ___
+
+Chief Complaint:
+Left calf pain and swelling
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Mr. ___ is a 58-year-old man with type 2 diabetes and asthma who
+presented with three days of left calf pain and swelling after a
+long flight. Ultrasound confirmed a deep vein thrombosis of the left
+popliteal vein. He denied chest pain or shortness of breath.
+
+Past Medical History:
+Type 2 diabetes mellitus on insulin
+Asthma
+
+Social History:
+___
+Family History:
+Mother with pulmonary embolism.
+
+Physical Exam:
+Admission: T 98.4, HR 84, BP 132/78, SpO2 98% RA
+Left calf swollen and tender. Lungs clear.
+Discharge: Swelling improved, ambulating without difficulty.
+
+Pertinent Results:
+Ultrasound: occlusive thrombus, left popliteal vein.
+Cr 0.9, platelets 210
+Glucose 96 to 212 range during admission
+
+Brief Hospital Course:
+Mr. ___ was diagnosed with a provoked deep vein thrombosis and
+started on injectable anticoagulation. Teaching was provided for
+self-injection. His inhaled maintenance therapy was continued. His
+mealtime insulin was managed on a sliding scale during the admission
+and he will resume his usual home regimen after discharge; the
+specific home units were not available in the record.
+
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. insulin lispro with meals
+2. fluticasone-salmeterol inhaler twice daily
+
+Discharge Medications:
+1. Enoxaparin 40 mg SC DAILY
+2. Fluticasone-Salmeterol 250/50 1 puff INH BID
+3. Insulin Lispro SC sliding scale per home regimen
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Deep vein thrombosis, left popliteal vein
+Type 2 diabetes mellitus
+Asthma
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+Discharge Instructions:
+Give yourself the blood thinner injection at the same time each day.
+Keep using your inhaler twice daily. Call if you have chest pain,
+shortness of breath, unusual bleeding, or blood in your stool.
+
+Followup Instructions:
+___

@@ -1,0 +1,82 @@
+Name:  ___                     Unit No:   ___
+
+Admission Date:  ___              Discharge Date:   ___
+
+Date of Birth:  ___             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies
+
+Attending: ___
+
+Chief Complaint:
+Wheezing and shortness of breath
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Ms. ___ is a 61-year-old woman with chronic obstructive pulmonary
+disease who presented with four days of increasing cough, wheezing
+and shortness of breath following an upper respiratory infection.
+She was using her rescue inhaler every two hours at home without
+relief. She denied fever or chest pain.
+
+Past Medical History:
+COPD
+Osteopenia
+Gastroesophageal reflux
+
+Social History:
+___
+Family History:
+Noncontributory.
+
+Physical Exam:
+Admission: T 98.6, HR 96, BP 138/80, RR 22, SpO2 91% RA
+Diffuse expiratory wheezes. Prolonged expiratory phase.
+Discharge: RR 16, SpO2 95% RA. Wheezing much improved.
+
+Pertinent Results:
+Chest radiograph: hyperinflation, no infiltrate.
+WBC 9.4, Cr 0.8, glucose 142
+
+Brief Hospital Course:
+Ms. ___ was treated for a COPD exacerbation with nebulized
+bronchodilators and systemic corticosteroids. Her oxygen saturation
+improved and she was weaned off supplemental oxygen. She will
+complete a corticosteroid taper as an outpatient. Because of her
+osteopenia and the steroid course, calcium supplementation was
+started. Gastric protection was continued during the steroid course.
+
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. tiotropium inhaler daily
+2. albuterol inhaler as needed
+
+Discharge Medications:
+1. Prednisone 40 mg PO daily for 3 days, then 20 mg PO daily for 3
+days, then stop
+2. Pantoprazole 40 mg PO DAILY
+3. Calcium Carbonate 500 mg PO BID
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Chronic obstructive pulmonary disease exacerbation
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+Discharge Instructions:
+Follow the steroid schedule exactly and do not stop it early. Keep
+using your inhalers. Call if your breathing gets worse, you develop
+a fever, or you need your rescue inhaler more than every four hours.
+
+Followup Instructions:
+___
