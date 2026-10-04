@@ -10,3 +10,4 @@
 | 2026-09-22 | Art. 15 (미독) | 남은 실패 4건 전부 섹션 선택 문제. Discharge Medications 우선, 포인터면 Discharge Instructions로 폴백, Medications on Admission은 근거 금지 → S03 retrieve 노드 규칙 | S02 |
 | 2026-09-29 | Art. 14(4)(b)(c) | 모든 출력에 evidence_span(원문 위치·섹션)을 포함. 검토자가 원문을 바로 대조할 수 있어 확인 비용이 줄고, 기계 출력이라는 점을 매번 상기시킴(automation bias 완화). 근거 없으면 값 대신 abstain. 한계: 확인을 쉽게 할 뿐 강제하지는 않음. 본 시스템은 고위험이 아니므로 자발적 적용 | S02 |
 | 2026-10-04 | Art. 15 (미독) | verify_evidence 용량 패턴 검사(약 이름이 있는 줄에 숫자+단위가 정확히 1개). 정답 46/46 통과, 용량 미기재 7/7 차단(no_dose 6, multiple_doses 1). threshold로 0% 막혔던 경우를 여기서 막음. 한계: 줄 단위 검사, C 표본 7개 | S03 |
+| 2026-10-04 | Art. 15 (미독) | threshold 0.70은 정규식 extract에서는 verify와 역할이 겹치고, 정답 4/46(거리 0.73~0.82)을 버림. 설정값으로 두고 그래프 완성 후 on/off 비교로 결정. LLM extract(S04) 이후 재측정 | S03 |
