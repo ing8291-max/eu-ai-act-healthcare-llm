@@ -12,27 +12,13 @@ import pytest
 pytest.importorskip("langgraph")
 pytest.importorskip("langchain_core")
 
-from langchain_core.documents import Document  # noqa: E402
-
 from agents.evaluate import evaluate  # noqa: E402
 from agents.graph import build_graph  # noqa: E402
-from agents.nodes import DATA_DIR, DOSE_RE, make_extract, section_span  # noqa: E402
+from agents.nodes import DOSE_RE, make_extract, section_span  # noqa: E402
+from tests.fakes import SectionStore  # noqa: E402
 
 DRUG_RE = re.compile(r"^Drug: (.+)$", re.M)
 SECTION_RE = re.compile(r'Use only the section "([^"]+)"')
-
-
-class SectionStore:
-    """Stands in for Chroma: returns the whole requested section as one chunk."""
-    def similarity_search_with_score(self, query, k=3, filter=None):
-        cond = {list(c)[0]: list(c.values())[0] for c in filter["$and"]}
-        doc = (DATA_DIR / f"{cond['doc_id']}.txt").read_text(encoding="utf-8")
-        span = section_span(doc, cond["section"])
-        if span is None:
-            return []
-        meta = {"doc_id": cond["doc_id"], "section": cond["section"],
-                "char_start": span[0], "char_end": span[1]}
-        return [(Document(page_content=doc[span[0]:span[1]], metadata=meta), 0.5)]
 
 
 def _section_lines(user):

@@ -135,3 +135,14 @@ def test_context_differs_by_mode():
     ctx_d = seen_d[0].split("CONTEXT:")[1]
     assert "Medications on Admission:" not in ctx_a
     assert "Medications on Admission:" in ctx_d
+
+
+def test_fake_store_chunks_look_like_real_chunks():
+    # the real chunker keeps the header line; the fake must too (10/13 e2e failure)
+    from tests.fakes import SectionStore
+    flt = {"$and": [{"doc_id": "doc_03"}, {"section": "Discharge Medications"}]}
+    (chunk, _), = SectionStore().similarity_search_with_score("q", filter=flt)
+    d = doc("doc_03")
+    assert chunk.page_content.startswith("Discharge Medications:")
+    m = chunk.metadata
+    assert d[m["char_start"]:m["char_end"]] == chunk.page_content

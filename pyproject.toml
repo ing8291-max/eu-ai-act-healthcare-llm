@@ -1,0 +1,9 @@
+[tool.ruff]
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "B"]   # 기본 규칙 + 버그 패턴(B)
+
+[tool.pytest.ini_options]
+markers = ["llm: calls the real LLM API (costs money, needs .env). Run with: pytest -m llm"]
+addopts = "-m 'not llm'"                # 평소 pytest 에서는 실제 LLM 테스트를 건너뜀
