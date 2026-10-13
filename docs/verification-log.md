@@ -34,3 +34,4 @@ AI 도구(LLM)가 만든 숫자 · 코드 · 데이터 · 문장을 사용하기
 | 2026-10-11 | .env 예시 | AI가 준 .env.example에 값 옆 주석 | 노트북 실행 시 ValueError | 주석을 값으로 읽음 → 주석을 별도 줄로 분리 |
 | 2026-10-11 | 기대값 | "doc_02 pantoprazole → 40 mg" | 정답 키(fixtures) 확인 | doc_02에 pantoprazole 없음(B 그룹 문항) → abstain이 정답. 판정 전 정답 키 먼저 확인 |
 
+| 2026-10-11 | extract 코드 | AI가 쓴 max_tokens=300 | doc_08 trace: 출력 300/300, JSON이 중간에 잘림 | 잘림을 "약 없음"으로 처리하던 버그 → 상한 2048 + stop_reason 기록. 수정 후 doc_08 2/2 |
