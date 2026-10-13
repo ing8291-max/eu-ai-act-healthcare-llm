@@ -1,0 +1,37 @@
+---
+config:
+  flowchart:
+    curve: linear
+---
+graph TD;
+	__start__([<p>__start__</p>]):::first
+	load_document(load_document)
+	route_intent(route_intent)
+	retrieve(retrieve)
+	fallback_section(fallback_section)
+	extract(extract)
+	verify_evidence(verify_evidence)
+	emit_result(emit_result)
+	abstain(abstain)
+	__end__([<p>__end__</p>]):::last
+	__start__ --> load_document;
+	extract --> verify_evidence;
+	fallback_section --> retrieve;
+	load_document --> route_intent;
+	retrieve -.-> abstain;
+	retrieve -.-> extract;
+	retrieve -.-> fallback_section;
+	route_intent --> retrieve;
+	verify_evidence -.-> abstain;
+	verify_evidence -.-> emit_result;
+	verify_evidence -.-> extract;
+	verify_evidence -.-> fallback_section;
+	abstain --> __end__;
+	emit_result --> __end__;
+	classDef default fill:#f2f0ff,line-height:1.2
+	classDef first fill-opacity:0
+	classDef last fill:#bfb6fc
+	classDef llm fill:#FDE68A,stroke:#B45309,color:#1F2937
+	classDef code fill:#CCFBF1,stroke:#0E7C86,color:#1F2937
+	class extract llm
+	class abstain,emit_result,fallback_section,load_document,retrieve,route_intent,verify_evidence code
