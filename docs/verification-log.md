@@ -30,3 +30,7 @@ AI 도구(LLM)가 만든 숫자 · 코드 · 데이터 · 문장을 사용하기
 
 | 2026-10-06 | LangGraph 코드 | nodes.py · graph.py · evaluate.py (AI 작성, AI는 임시 임베딩으로만 실행) | 실제 Qwen 임베딩으로 전체 평가 | threshold 끔: 46/46, 7/7, 틀린 답 0 · 0.68: 41/46 (doc_08 ×2, doc_12, doc_14, doc_19 누락) |
 | 2026-10-06 | 설계 설명 | "같은 계열 약은 verify의 약 이름 대조가 막는다" | nodes.py 코드 확인 | 이름 대조는 extract에만 있었음 → LLM extract에서는 뚫림. verify에 name_mismatch 추가, pytest 5개 통과 |
+
+| 2026-10-11 | .env 예시 | AI가 준 .env.example에 값 옆 주석 | 노트북 실행 시 ValueError | 주석을 값으로 읽음 → 주석을 별도 줄로 분리 |
+| 2026-10-11 | 기대값 | "doc_02 pantoprazole → 40 mg" | 정답 키(fixtures) 확인 | doc_02에 pantoprazole 없음(B 그룹 문항) → abstain이 정답. 판정 전 정답 키 먼저 확인 |
+

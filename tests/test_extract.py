@@ -15,12 +15,13 @@ def doc(doc_id):
     return (DATA / f"{doc_id}.txt").read_text(encoding="utf-8")
 
 
-def fake_llm(reply, seen=None):
+def fake_llm(reply, seen=None, stop_reason="end_turn", blocks=("text",)):
     """Returns a fixed reply and records the prompt it was given."""
     def ask(system, user):
         if seen is not None:
             seen.append(user)
-        return {"text": reply, "input_tokens": 100, "output_tokens": 10, "ms": 5, "model": "fake"}
+        return {"text": reply, "input_tokens": 100, "output_tokens": 10, "ms": 5, "model": "fake",
+                "stop_reason": stop_reason, "blocks": list(blocks)}
     return ask
 
 
@@ -91,6 +92,15 @@ def test_unparseable_output_is_not_an_answer():
     assert "unparseable" in out["trace"][0]
 
 
+def test_cut_off_output_is_labelled_truncated_not_unparseable():
+    # 10/11 doc_08: 300/300 output tokens, empty text -> looked like "not found"
+    st = state_for("doc_08", "prednisone", section="Discharge Instructions")
+    ask = fake_llm("", stop_reason="max_tokens", blocks=("thinking",))
+    out = make_extract("A", llm=ask)(st)
+    assert out["candidate"] is None
+    assert "TRUNCATED" in out["trace"][0] and "thinking" in out["trace"][0]
+
+
 # ---- retry feedback and bookkeeping
 def test_retry_prompt_explains_the_rejection():
     seen = []
@@ -110,7 +120,8 @@ def test_usage_is_recorded_per_call():
     out, _ = run("A", '{"found": true, "quote": "Lisinopril 5 mg PO DAILY"}',
                  state_for("doc_03", "lisinopril"))
     assert out["usage"] == [{"node": "extract", "mode": "A", "attempt": 1, "input_tokens": 100,
-                             "output_tokens": 10, "ms": 5, "model": "fake"}]
+                             "output_tokens": 10, "ms": 5, "model": "fake",
+                             "stop_reason": "end_turn"}]
     assert out["attempts"] == 1
 
 

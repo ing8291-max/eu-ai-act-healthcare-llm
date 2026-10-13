@@ -224,11 +224,17 @@ def make_extract(mode="A", llm=None):
             med=med, section=section, feedback=feedback, context=context))
         usage = {"node": "extract", "mode": mode, "attempt": attempt,
                  "input_tokens": out["input_tokens"], "output_tokens": out["output_tokens"],
-                 "ms": out["ms"], "model": out.get("model")}
+                 "ms": out["ms"], "model": out.get("model"),
+                 "stop_reason": out.get("stop_reason")}
 
         parsed = _parse(out["text"])
-        if parsed is None:
-            note, candidate = f"unparseable output {out['text'][:60]!r}", None
+        if parsed is None and out.get("stop_reason") in ("max_tokens", "length"):
+            # cut off before the answer: this is NOT "drug not found", say so in the trace
+            note, candidate = (f"TRUNCATED at max_tokens (blocks={out.get('blocks')}, "
+                               f"text={out['text'][:40]!r})"), None
+        elif parsed is None:
+            note, candidate = (f"unparseable output {out['text'][:60]!r} "
+                               f"(blocks={out.get('blocks')})"), None
         elif not parsed["found"]:
             note, candidate = "found=false", None
         else:
